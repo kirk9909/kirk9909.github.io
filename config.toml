@@ -1,0 +1,102 @@
+baseURL = "https://kirk9909.github.io/"
+languageCode = "zh-cn"
+title = "kirk9909"
+theme = "Hugo-Octopress"
+
+
+# Number of blog posts in each pagination page
+paginate = 6
+
+# Code highlighting options
+# Hugo uses Chroma but names are the same as the old pygments highlighter
+
+# Highlight shortcode and code fences (```) will be treated similarly
+pygmentscodefences = true
+
+# Change highlight style here.
+# For a full list see: https://xyproto.github.io/splash/docs/all.html
+pygmentsStyle = "solarized-dark"
+
+[permalinks]
+post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the old ones
+
+[params]
+  # Sidebar header - passed to markdownify so you can write markdown here
+  sidebarHeader = "[关于](/about/)"
+
+  # Sidebar menu - if true will add a sidebar menu between sidebar text and recent posts
+  sidebarMenuEnabled = true
+  sidebarMenuHeader = "链接"
+
+  # Sidebar text also supports markdown
+  # New lines can be added with </br> or normal markdown (two spaces at the end of line or two new lines).
+  # when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
+  sidebarText = """
+    """
+
+  # This text appears in the site header under website title
+  subtitle = "Keep Moving"
+
+  # Search engine URL
+  searchEngineURL = "https://www.google.com/search"
+  
+  # Switch to true to enable RSS icon link
+  rss = true
+
+  # Set to true to use a text label for RSS instead of an icon
+  # This is overwritten by the "rss" setting
+  # textrss = true
+
+  # Website's default description
+  description = ""
+
+  # Generate taxonomy pages
+  generateTaxonomyList = true
+
+  # Text of the "Continue Reading" label. Supports markdown and inline HTML.
+  # For example, &rarr; == right arrow.
+  continueReadingText = "继续阅读&rarr;"
+
+  # Populate this with your own search keywords - these will appear in the meta tags
+  # defaultKeywords = ["keyword1" , "keyword2" , "keyword3" , "keyword4"]
+
+  # 404.html header and text - both support markdown
+  notFoundHeader = "There's nothing here"
+
+  notFoundText = """Please either go back or use the navigation/sidebar menus.
+  """
+
+  # Set to true to hide ReadingTime on posts
+  disableReadingTime = true
+
+  # Set mainSections.
+  # mainSections = ["blog"]
+
+  
+# Menu
+# If navigationNewWindow (under [params]) is set to true then all links except root ("/") will open in a new window
+# If it does not exist or is set to false then links will open in the same window
+
+[[menu.main]]
+  Name = "首页"
+  URL = "/"
+  weight = -5
+
+# [[menu.main]]
+#  Name = "关于"
+#  URL = "/about/"
+#  weight = -5
+
+
+# Sidebar menus
+# Enable with "sidebarMenuEnabled = true" under [params]
+# Header text is "sidebarMenuHeader" under [params]
+[[menu.sidebar]]
+  Name = "我的技术笔记"
+  URL = "https://github.com/kirk9909/notes"
+  weight = 0
+
+# Taxonomies 
+[taxonomies]
+  tag = "tags"
+
