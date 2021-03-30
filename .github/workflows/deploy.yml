@@ -26,5 +26,5 @@ jobs:
         with:
           personal_token: ${{ secrets.personal_token }} # 这里的 ACTIONS_DEPLOY_KEY 则是上面设置 Private Key的变量名
           publish_dir: ./public
-          publish_branch: master # 部署目的分支
+          publish_branch: main # 部署目的分支
           commit_message: ${{ github.event.head_commit.message }}
