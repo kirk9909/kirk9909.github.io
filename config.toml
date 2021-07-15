@@ -92,8 +92,8 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
 # Enable with "sidebarMenuEnabled = true" under [params]
 # Header text is "sidebarMenuHeader" under [params]
 [[menu.sidebar]]
-  Name = "我的技术笔记"
-  URL = "https://github.com/kirk9909/notes"
+  Name = "技术笔记"
+  URL = "https://www.cnblogs.com/kirk9909/"
   weight = 0
 
 # Taxonomies 
