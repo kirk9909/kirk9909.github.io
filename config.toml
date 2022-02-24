@@ -1,16 +1,133 @@
 # The URL the site will be built for
 base_url = "https://kirk9909.github.io"
 
+title = "kirk9909"
+description = "kirk9909 Blog"
+default_language = "en"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+# When set to "true", a search index is built from the pages and section
+# content for `default_language`.
+build_search_index = false
+
+# When set to "true", a feed is automatically generated.
+generate_feed = true
+
+# The taxonomies to be rendered for the site and their configuration of the default languages
+taxonomies = [
+    { name = "tags", rss = true },
+    { name = "categories", rss = true },
+]
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+# When set to "true", all code blocks are highlighted.
 highlight_code = true
 
+# The theme to use for code highlighting.
+# See Zola configuration docs for list of allowed values.
+highlight_theme = "material-light"
+
+[languages]
+
+[languages.en]
+title = "kirk9909"
+description = "kirk9909's Blog"
+generate_feed = true
+feed_filename = "atom.xml"
+
+[languages.en.translations]
+projects = "Projects"
+blog = "Blog"
+about = "About"
+recent_projects = "Recent Projects"
+more_projects = "More Projects"
+recent_blog_posts = "Recent Blog Posts"
+more_blog_posts = "More blog posts"
+tag = "Tag"
+tags = "Tags"
+to_all_tags = "To all tags"
+category = "Category"
+categories = "Categories"
+to_all_categories = "To all categories"
+view_by = "View by"
+other = "Other"
+minute = "min"
+prev_page = "To newer posts"
+next_page = "To older posts"
+# Customize your post date format. See: https://tera.netlify.app/docs/#date
+date_format = "%B %e, %Y"
+
+[languages.zh]
+title = "kirk9909"
+description = "kirk9909的博客"
+base_url = "https://kirk9909.github.io/zh"
+taxonomies = [
+    { name = "tags", rss = true },
+    { name = "categories", rss = true },
+]
+
+[languages.zh.translations]
+projects = "项目"
+blog = "归档"
+about = "关于"
+recent_projects = "近期项目"
+more_projects = "更多项目"
+recent_blog_posts = "近期文章"
+more_blog_posts = "更多文章"
+tag = "标签"
+tags = "标签"
+to_all_tags = "查看所有标签"
+category = "分类"
+categories = "所有分类"
+to_all_categories = "查看所有分类"
+view_by = "查看方式"
+other = "其他"
+minute = "分钟"
+prev_page = "转到更早的文章"
+next_page = "转到更新的文章"
+# Customize your post date format. See: https://tera.netlify.app/docs/#date
+date_format = "%Y-%m-%d"
+
 [extra]
-# Put all your custom variables here
+# Development environment. Used by the page macros to load remote content only when in "prod" mode
+env = "ZOLA_ENV"
+
+# List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
+menu_items = [
+    { name = "projects", url = "$LANG_BASE_URL/projects", show_recent = true, recent_items = 3, recent_trans_key = "recent_projects", more_trans_key = "more_projects" },
+    { name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
+    # tag is not a zola section, it's just a link.
+    { name = "tags", url = "$LANG_BASE_URL/tags" },
+    { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
+]
+
+[extra.images]
+# Width defined in pixels
+max_width = 2500
+
+# Open Graph Protocol objects. See: https://ogp.me/
+[extra.ogp]
+locale = "en_US"
+first_name = "Papaya"
+last_name = "Tiliqua"
+gender = "female"
+username = "tiliquasp"
+
+# Footer social links; full options listed in macros/social.html
+[extra.social]
+email = "papaya@tiliqua.sp"
+github = "papaya"
+linkedin = "papayatiliqua"
+twitter = "your-user-name"
+zhihu = "your-user-name"
+weibo = "your-user-name"
+bilibili = "your-user-name"
+other = [
+    { name = "BTC", font_awesome = "fa-brands fa-btc", url = "https://www.bitcoin.com/" }
+]
+
+# CDN links
+[extra.cdn]
+font_awesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
