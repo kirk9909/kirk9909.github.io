@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>kirk9909</title>
+	<subtitle>kirk9909&#x27;s Blog</subtitle>
+	<link href="https://kirk9909.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://kirk9909.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-10-04T00:00:00+00:00</updated>
+	<id>https://kirk9909.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>No summary</title>
+		<published>2021-10-04T00:00:00+00:00</published>
+		<updated>2021-10-04T00:00:00+00:00</updated>
+		<link href="https://kirk9909.github.io/blog/no-summary/" type="text/html"/>
+		<id>https://kirk9909.github.io/blog/no-summary/</id>
+		<content type="html">&lt;p&gt;This page has no summary as described in the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;content&#x2F;page&#x2F;#summary&quot;&gt;Zola documentation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>What is Zola</title>
+		<published>2021-10-03T00:00:00+00:00</published>
+		<updated>2021-10-03T00:00:00+00:00</updated>
+		<link href="https://kirk9909.github.io/blog/what-is-zola/" type="text/html"/>
+		<id>https://kirk9909.github.io/blog/what-is-zola/</id>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque. Praesent ac sem ut justo volutpat rutrum a imperdiet tellus. Nam lobortis massa non hendrerit hendrerit. Vivamus porttitor dignissim turpis, eget aliquam urna tincidunt non. Aliquam et fringilla turpis. Nullam eros est, eleifend in ornare sed, hendrerit eget est. Aliquam tellus felis, suscipit vitae ex vel, fringilla tempus massa. Nulla facilisi. Pellentesque lobortis consequat lectus. Maecenas ac libero elit.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-1&quot; aria-label=&quot;Anchor link for: heading-1&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-2&quot; aria-label=&quot;Anchor link for: heading-2&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-3&quot; aria-label=&quot;Anchor link for: heading-3&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-4&quot; aria-label=&quot;Anchor link for: heading-4&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-5&quot; aria-label=&quot;Anchor link for: heading-5&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h5&gt;
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-6&quot; aria-label=&quot;Anchor link for: heading-6&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;a class=&quot;zola-anchor&quot; href=&quot;#blockquote&quot; aria-label=&quot;Anchor link for: blockquote&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote
+with several lines&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;a class=&quot;zola-anchor&quot; href=&quot;#tables&quot; aria-label=&quot;Anchor link for: tables&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Tables aren&#x27;t part of the core Markdown spec, but Zola supports them out-of-the-box.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Name&lt;&#x2F;th&gt;&lt;th&gt;Age&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Bob&lt;&#x2F;td&gt;&lt;td&gt;27&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Alice&lt;&#x2F;td&gt;&lt;td&gt;23&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h3 id=&quot;inline-markdown-within-tables&quot;&gt;Inline Markdown within tables&lt;a class=&quot;zola-anchor&quot; href=&quot;#inline-markdown-within-tables&quot; aria-label=&quot;Anchor link for: inline-markdown-within-tables&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Inline   &lt;&#x2F;th&gt;&lt;th&gt;Markdown   &lt;&#x2F;th&gt;&lt;th&gt;In   &lt;&#x2F;th&gt;&lt;th&gt;Table&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;em&gt;italics&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;bold&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;del&gt;strikethrough&lt;&#x2F;del&gt;   &lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;code&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;a class=&quot;zola-anchor&quot; href=&quot;#code-blocks&quot; aria-label=&quot;Anchor link for: code-blocks&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;code-block-with-backticks&quot;&gt;Code block with backticks&lt;a class=&quot;zola-anchor&quot; href=&quot;#code-block-with-backticks&quot; aria-label=&quot;Anchor link for: code-block-with-backticks&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;pre data-lang=&quot;python&quot; style=&quot;background-color:#fafafa;color:#80cbc4;&quot; class=&quot;language-python &quot;&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span&gt;prices &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;= {&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;apple&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;40&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;, &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;banana&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;50&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;}
+&lt;&#x2F;span&gt;&lt;span&gt;my_purchase &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;= {
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;apple&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;,
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;banana&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;6
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;}
+&lt;&#x2F;span&gt;&lt;span&gt;grocery_bill &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;sum&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;prices&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;fruit&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;] * &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;my_purchase&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;fruit&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;]
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;                   &lt;&#x2F;span&gt;&lt;span style=&quot;font-style:italic;color:#7c4dff;&quot;&gt;for &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;fruit &lt;&#x2F;span&gt;&lt;span style=&quot;font-style:italic;color:#7c4dff;&quot;&gt;in &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;my_purchase&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;I owe the grocer $&lt;&#x2F;span&gt;&lt;span&gt;%.2f&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39; % &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;grocery_bill&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;a class=&quot;zola-anchor&quot; href=&quot;#list-types&quot; aria-label=&quot;Anchor link for: list-types&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;ordered-list&quot;&gt;Ordered List&lt;a class=&quot;zola-anchor&quot; href=&quot;#ordered-list&quot; aria-label=&quot;Anchor link for: ordered-list&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;First item&lt;&#x2F;li&gt;
+&lt;li&gt;Second item&lt;&#x2F;li&gt;
+&lt;li&gt;Third item&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;unordered-list&quot;&gt;Unordered List&lt;a class=&quot;zola-anchor&quot; href=&quot;#unordered-list&quot; aria-label=&quot;Anchor link for: unordered-list&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;List item&lt;&#x2F;li&gt;
+&lt;li&gt;Another item&lt;&#x2F;li&gt;
+&lt;li&gt;And another item&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;nested-list&quot;&gt;Nested list&lt;a class=&quot;zola-anchor&quot; href=&quot;#nested-list&quot; aria-label=&quot;Anchor link for: nested-list&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Item
+&lt;ol&gt;
+&lt;li&gt;First Sub-item&lt;&#x2F;li&gt;
+&lt;li&gt;Second Sub-item&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;other-elements-abbr-sub-sup-kbd-mark&quot;&gt;Other Elements — abbr, sub, sup, kbd, mark&lt;a class=&quot;zola-anchor&quot; href=&quot;#other-elements-abbr-sub-sup-kbd-mark&quot; aria-label=&quot;Anchor link for: other-elements-abbr-sub-sup-kbd-mark&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;abbr title=&quot;Graphics Interchange Format&quot;&gt;GIF&lt;&#x2F;abbr&gt; is a bitmap image format.&lt;&#x2F;p&gt;
+&lt;p&gt;H&lt;sub&gt;2&lt;&#x2F;sub&gt;O&lt;&#x2F;p&gt;
+&lt;p&gt;X&lt;sup&gt;n&lt;&#x2F;sup&gt; + Y&lt;sup&gt;n&lt;&#x2F;sup&gt; = Z&lt;sup&gt;n&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Press &lt;kbd&gt;&lt;kbd&gt;CTRL&lt;&#x2F;kbd&gt;+&lt;kbd&gt;ALT&lt;&#x2F;kbd&gt;+&lt;kbd&gt;Delete&lt;&#x2F;kbd&gt;&lt;&#x2F;kbd&gt; to end the session.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;mark&gt;Skinks&lt;&#x2F;mark&gt; can often hide easily in their habitat because of their protective colouring (camouflage).&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>More on Skinks</title>
+		<published>2021-10-02T00:00:00+00:00</published>
+		<updated>2021-10-02T00:00:00+00:00</updated>
+		<link href="https://kirk9909.github.io/blog/another-post/" type="text/html"/>
+		<id>https://kirk9909.github.io/blog/another-post/</id>
+		<content type="html">&lt;p&gt;Many species are good burrowers. More species are terrestrial or fossorial (burrowing) than arboreal (tree-climbing) or aquatic species.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Some are &amp;quot;sand swimmers&amp;quot;, especially the desert species, such as the mole skink or sand skink in Florida. Some use a very similar action in moving through grass tussocks. Most skinks are diurnal (day-active) and typically bask on rocks or logs during the day.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-1&quot; aria-label=&quot;Anchor link for: heading-1&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-2&quot; aria-label=&quot;Anchor link for: heading-2&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-3&quot; aria-label=&quot;Anchor link for: heading-3&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-4&quot; aria-label=&quot;Anchor link for: heading-4&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-5&quot; aria-label=&quot;Anchor link for: heading-5&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h5&gt;
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-6&quot; aria-label=&quot;Anchor link for: heading-6&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h6&gt;
+&lt;p&gt;Skinks are very specific in their habitat as some can depend on vegetation while others may depend on land and the soil. As a family, skinks are cosmopolitan; species occur in a variety of habitats worldwide, apart from boreal and polar regions. Various species occur in ecosystems ranging from deserts and mountains to grasslands.&lt;&#x2F;p&gt;
+&lt;p&gt;Raccoons, foxes, possums, snakes, coatis, crows, cats, dogs, herons, hawks, lizards, and other predators of small land vertebrates also prey on various skinks. This can be troublesome, given the long gestation period for some skinks, making them an easy target to predators such as the mongoose, which often threaten the species to at least near extinction, such as the Anguilla Bank skink. Invasive rodents are a major threat to skinks that has been overlooked, especially tropical skinks.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;a class=&quot;zola-anchor&quot; href=&quot;#blockquote&quot; aria-label=&quot;Anchor link for: blockquote&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote
+with several lines&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;a class=&quot;zola-anchor&quot; href=&quot;#tables&quot; aria-label=&quot;Anchor link for: tables&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Tables aren&#x27;t part of the core Markdown spec, but Zola supports supports them out-of-the-box.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Name&lt;&#x2F;th&gt;&lt;th&gt;Age&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Bob&lt;&#x2F;td&gt;&lt;td&gt;27&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Alice&lt;&#x2F;td&gt;&lt;td&gt;23&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;inline-markdown-within-tables&quot;&gt;Inline Markdown within tables&lt;a class=&quot;zola-anchor&quot; href=&quot;#inline-markdown-within-tables&quot; aria-label=&quot;Anchor link for: inline-markdown-within-tables&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Inline   &lt;&#x2F;th&gt;&lt;th&gt;Markdown   &lt;&#x2F;th&gt;&lt;th&gt;In   &lt;&#x2F;th&gt;&lt;th&gt;Table&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;em&gt;italics&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;strong&gt;bold&lt;&#x2F;strong&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;del&gt;strikethrough&lt;&#x2F;del&gt;   &lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;code&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;a class=&quot;zola-anchor&quot; href=&quot;#code-blocks&quot; aria-label=&quot;Anchor link for: code-blocks&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;code-block-with-backticks&quot;&gt;Code block with backticks&lt;a class=&quot;zola-anchor&quot; href=&quot;#code-block-with-backticks&quot; aria-label=&quot;Anchor link for: code-block-with-backticks&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;pre data-lang=&quot;python&quot; style=&quot;background-color:#fafafa;color:#80cbc4;&quot; class=&quot;language-python &quot;&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span&gt;prices &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;= {&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;apple&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;40&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;, &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;banana&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;0&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;50&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;}
+&lt;&#x2F;span&gt;&lt;span&gt;my_purchase &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;= {
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;apple&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;,
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;banana&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39;: &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;6
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;}
+&lt;&#x2F;span&gt;&lt;span&gt;grocery_bill &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;sum&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;prices&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;fruit&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;] * &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;my_purchase&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;fruit&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;]
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;                   &lt;&#x2F;span&gt;&lt;span style=&quot;font-style:italic;color:#7c4dff;&quot;&gt;for &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;fruit &lt;&#x2F;span&gt;&lt;span style=&quot;font-style:italic;color:#7c4dff;&quot;&gt;in &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;my_purchase&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#91b859;&quot;&gt;I owe the grocer $&lt;&#x2F;span&gt;&lt;span&gt;%.2f&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;&amp;#39; % &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;grocery_bill&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;a class=&quot;zola-anchor&quot; href=&quot;#list-types&quot; aria-label=&quot;Anchor link for: list-types&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;ordered-list&quot;&gt;Ordered List&lt;a class=&quot;zola-anchor&quot; href=&quot;#ordered-list&quot; aria-label=&quot;Anchor link for: ordered-list&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;First item&lt;&#x2F;li&gt;
+&lt;li&gt;Second item&lt;&#x2F;li&gt;
+&lt;li&gt;Third item&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;unordered-list&quot;&gt;Unordered List&lt;a class=&quot;zola-anchor&quot; href=&quot;#unordered-list&quot; aria-label=&quot;Anchor link for: unordered-list&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;List item&lt;&#x2F;li&gt;
+&lt;li&gt;Another item&lt;&#x2F;li&gt;
+&lt;li&gt;And another item&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;nested-list&quot;&gt;Nested list&lt;a class=&quot;zola-anchor&quot; href=&quot;#nested-list&quot; aria-label=&quot;Anchor link for: nested-list&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Item
+&lt;ol&gt;
+&lt;li&gt;First Sub-item&lt;&#x2F;li&gt;
+&lt;li&gt;Second Sub-item&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;other-elements-abbr-sub-sup-kbd-mark&quot;&gt;Other Elements — abbr, sub, sup, kbd, mark&lt;a class=&quot;zola-anchor&quot; href=&quot;#other-elements-abbr-sub-sup-kbd-mark&quot; aria-label=&quot;Anchor link for: other-elements-abbr-sub-sup-kbd-mark&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;abbr title=&quot;Graphics Interchange Format&quot;&gt;GIF&lt;&#x2F;abbr&gt; is a bitmap image format.&lt;&#x2F;p&gt;
+&lt;p&gt;H&lt;sub&gt;2&lt;&#x2F;sub&gt;O&lt;&#x2F;p&gt;
+&lt;p&gt;X&lt;sup&gt;n&lt;&#x2F;sup&gt; + Y&lt;sup&gt;n&lt;&#x2F;sup&gt; = Z&lt;sup&gt;n&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Press &lt;kbd&gt;&lt;kbd&gt;CTRL&lt;&#x2F;kbd&gt;+&lt;kbd&gt;ALT&lt;&#x2F;kbd&gt;+&lt;kbd&gt;Delete&lt;&#x2F;kbd&gt;&lt;&#x2F;kbd&gt; to end the session.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;mark&gt;Skinks&lt;&#x2F;mark&gt; can often hide easily in their habitat because of their protective colouring (camouflage).&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Relative Path of Image</title>
+		<published>2021-10-01T00:00:00+00:00</published>
+		<updated>2021-10-01T00:00:00+00:00</updated>
+		<link href="https://kirk9909.github.io/blog/blog-with-image/" type="text/html"/>
+		<id>https://kirk9909.github.io/blog/blog-with-image/</id>
+		<content type="html">&lt;p&gt;Use &lt;code&gt;img()&lt;&#x2F;code&gt; to specify the relative path of image.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;figure &gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;kirk9909.github.io&amp;#x2F;processed_images&amp;#x2F;bf0ef15dcf2c120800.jpg&quot; class=&quot;&quot; &#x2F;&gt;
+    
+&lt;&#x2F;figure&gt;</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Example software project</title>
+		<published>2021-08-11T00:00:00+00:00</published>
+		<updated>2021-08-11T00:00:00+00:00</updated>
+		<link href="https://kirk9909.github.io/projects/project-1/" type="text/html"/>
+		<id>https://kirk9909.github.io/projects/project-1/</id>
+		<content type="html">&lt;p&gt;This is my first software project!&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin est augue, pellentesque sit amet nisi ut, viverra vestibulum purus. Quisque ac varius elit. &lt;&#x2F;p&gt;
+&lt;p&gt;Praesent vitae pretium lacus, at placerat velit. Nulla feugiat quam eget quam tempus, id vulputate nulla suscipit. Vestibulum porta mollis molestie. In mollis diam et ante varius imperdiet et a elit. Mauris sodales quis nisi nec fringilla. &lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fafafa;color:#80cbc4;&quot;&gt;&lt;code&gt;&lt;span&gt;Aenean sed fermentum nunc, a consectetur magna.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Maecenas eget ligula porttitor, egestas orci id, gravida nisl. Aliquam erat volutpat. Sed dapibus felis quis lacus dignissim condimentum aliquam et orci. &lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sed rutrum velit et purus volutpat rutrum. &lt;&#x2F;li&gt;
+&lt;li&gt;Suspendisse mollis ante arcu, sit amet vehicula nisl cursus ac. &lt;&#x2F;li&gt;
+&lt;li&gt;Donec tristique risus dolor, at tristique urna placerat et. &lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Nam vel interdum neque. Maecenas laoreet eget enim at rhoncus. Donec posuere diam leo, blandit semper urna semper nec. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Image Demos</title>
+		<published>2021-01-10T00:00:00+00:00</published>
+		<updated>2021-01-10T00:00:00+00:00</updated>
+		<link href="https://kirk9909.github.io/projects/project-3/" type="text/html"/>
+		<id>https://kirk9909.github.io/projects/project-3/</id>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et blandit est, at pulvinar nisi. &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Curabitur eget mauris arcu. Donec lectus massa, feugiat sed accumsan sit amet, rutrum in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec porta volutpat urna faucibus dapibus. Aenean ac porttitor elit. Mauris quis purus viverra, tempus lorem a, lacinia quam. Ut venenatis risus et ex eleifend, ut viverra erat dapibus. Nullam viverra at erat ac auctor.&lt;&#x2F;p&gt;
+&lt;figure &gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;kirk9909.github.io&amp;#x2F;processed_images&amp;#x2F;6d2d54e9669bf7ce00.jpg&quot; class=&quot;&quot; alt=&quot;A very cute leopard gecko.&quot;&#x2F;&gt;
+    &lt;figcaption&gt;A very cute leopard gecko. Default sizing.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Quisque non lectus feugiat sem vulputate fringilla sit amet at ipsum. Duis suscipit eget orci malesuada viverra. Morbi dolor est, ultricies quis varius eu, commodo eu magna. Nunc in sapien sed est venenatis scelerisque nec vestibulum est. Donec at sem luctus, volutpat dui eu, sagittis mauris. Mauris ullamcorper mi nec nulla placerat pretium. Aenean aliquam elit vitae ligula pellentesque tincidunt. Morbi porta, velit quis sagittis maximus, nulla velit suscipit dui, vitae molestie nulla massa vitae nibh. Nullam eu ipsum tempus, commodo magna at, tristique dolor.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;kirk9909.github.io&amp;#x2F;processed_images&amp;#x2F;df7b8ee14b7552bf00.jpg&quot; class=&quot;&quot; alt=&quot;A very cute leopard gecko.&quot;&#x2F;&gt;
+    &lt;figcaption&gt;A very cute leopard gecko. extended_width_pct=0.1&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Vivamus ut nunc sit amet leo gravida dignissim. Suspendisse a ultrices enim. Vestibulum pharetra est nec ligula tempus, eu luctus magna rhoncus. Nam nec porta sem, a vestibulum leo. Aenean fermentum sed felis non pellentesque. Vivamus vehicula augue a lacus posuere ultricies. Proin mattis, sem in tincidunt luctus, mi tortor varius nulla, ut egestas nisl purus ac purus.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;kirk9909.github.io&amp;#x2F;processed_images&amp;#x2F;51675928198d2c1700.jpg&quot; class=&quot;&quot; alt=&quot;A very cute leopard gecko.&quot;&#x2F;&gt;
+    &lt;figcaption&gt;A very cute leopard gecko. extended_width_pct=0.2&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Fusce in odio nec odio mollis malesuada. Duis sodales pharetra mollis. Integer in semper dolor, ac luctus magna. Morbi eros erat, varius sed sodales a, semper non nisl. Ut feugiat commodo enim, sit amet pellentesque quam volutpat id. Curabitur quis consequat dolor. Nunc quis metus diam. Sed erat augue, tristique id sem scelerisque, malesuada auctor mauris. Aliquam pellentesque urna id urna pulvinar, ut facilisis metus dapibus. Duis at risus nisi. Sed maximus nulla id lectus semper rutrum. Morbi nec dolor imperdiet, tempus lacus ac, bibendum neque. Curabitur condimentum condimentum ex, vel aliquam nibh semper vel.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;kirk9909.github.io&amp;#x2F;processed_images&amp;#x2F;18ad28ec15443ffe00.jpg&quot; class=&quot;&quot; alt=&quot;A very cute leopard gecko.&quot;&#x2F;&gt;
+    &lt;figcaption&gt;A very cute leopard gecko. extended_width_pct=-1&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Nunc et mauris sit amet nulla ultrices interdum. Mauris volutpat eget dui nec accumsan. Ut sed mollis orci. Praesent posuere, velit non placerat luctus, risus nisl consequat nibh, nec vestibulum ligula ante eu ipsum. Proin pulvinar dolor nec metus tempus, at varius ipsum tempus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel urna id ante maximus faucibus non vel orci. Proin metus orci, pretium ac rhoncus ac, ullamcorper sit amet tortor. Pellentesque lobortis ex id ornare tempus.&lt;&#x2F;p&gt;
+&lt;p&gt;Donec volutpat blandit leo, sed mattis elit varius non. Nam varius vel purus eu mollis. Integer nec leo et magna egestas consequat. In nec nulla vel metus malesuada varius. Nullam nisi orci, pellentesque eget vulputate id, rhoncus vel justo. Sed libero ante, feugiat non sagittis quis, tincidunt et neque. Proin vehicula massa interdum, accumsan tellus porttitor, semper arcu. Nullam varius convallis diam, eget iaculis purus rhoncus sed.&lt;&#x2F;p&gt;
+&lt;p&gt;Curabitur id suscipit dolor, ac laoreet felis. Ut interdum leo arcu, ac venenatis risus varius non. In tincidunt convallis venenatis. Proin consectetur felis at dui sodales hendrerit. Nullam non nibh lobortis, facilisis leo ut, porttitor justo. Suspendisse vel orci faucibus, vehicula mi eget, convallis enim. Nullam ultricies lectus id lectus pellentesque, quis congue metus rutrum. Donec faucibus vehicula erat, sed ullamcorper velit mattis id. Duis eu ex quis eros vehicula luctus. Proin pharetra justo id arcu interdum sodales. Fusce sagittis purus felis, ac sollicitudin odio pharetra nec. Aenean tincidunt lobortis tortor at tincidunt. Praesent eu nulla vitae urna euismod iaculis eu sit amet arcu. Phasellus ipsum risus, placerat a imperdiet ut, vehicula eu eros. Sed fringilla ex gravida, ultrices dolor id, cursus nisl. Nunc pellentesque lacus tellus, vel sodales turpis maximus a.&lt;&#x2F;p&gt;
+&lt;p&gt;Curabitur mattis enim et diam vulputate vestibulum ut id enim. Phasellus in quam eu nisi porttitor interdum. Aliquam at lorem quam. Sed ac lacus in elit sagittis ultrices ut eu tellus. Nam elit orci, laoreet scelerisque augue id, viverra interdum lectus. Duis libero ex, hendrerit mattis sodales elementum, rutrum vel eros. Morbi pharetra, tortor eget tempus condimentum, nisi eros tempus eros, eu elementum orci ante at nibh. Quisque venenatis justo nulla, eu pharetra turpis auctor in. Duis et blandit massa. Duis dui ante, egestas in condimentum ac, fermentum eu mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse eu lorem sit amet est tempor convallis sed sit amet purus. Morbi in laoreet erat.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>My Movie</title>
+		<published>2020-08-22T00:00:00+00:00</published>
+		<updated>2020-08-22T00:00:00+00:00</updated>
+		<link href="https://kirk9909.github.io/projects/project-2/" type="text/html"/>
+		<id>https://kirk9909.github.io/projects/project-2/</id>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proin est augue, pellentesque sit amet nisi ut, viverra vestibulum purus. Quisque ac varius elit.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Praesent vitae pretium lacus, at placerat velit. Nulla feugiat quam eget quam tempus, id vulputate nulla suscipit. Vestibulum porta mollis molestie. In mollis diam et ante varius imperdiet et a elit. Mauris sodales quis nisi nec fringilla&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;. Aenean sed fermentum nunc, a consectetur magna.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maecenas eget ligula porttitor, egestas orci id, gravida nisl. &lt;&#x2F;li&gt;
+&lt;li&gt;Aliquam erat volutpat. 
+&lt;ul&gt;
+&lt;li&gt;Sed dapibus felis quis lacus dignissim condimentum aliquam et orci. &lt;&#x2F;li&gt;
+&lt;li&gt;Sed rutrum velit et purus volutpat rutrum. &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Suspendisse mollis ante arcu, sit amet vehicula nisl cursus ac. &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Donec tristique risus dolor, at tristique urna placerat et. Nam vel interdum neque. Maecenas laoreet eget enim at rhoncus. Donec posuere diam leo, blandit semper urna semper nec. Phasellus vitae est aliquam, consequat arcu vitae, pulvinar elit. Vivamus faucibus gravida tortor vitae blandit. Vivamus sit amet ex vitae augue consequat tincidunt.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; Etiam at pellentesque arcu, vel finibus dui.&lt;&#x2F;p&gt;
+&lt;p&gt;Praesent elementum enim a malesuada placerat. Proin eget sem at dolor malesuada vehicula id vel ex. Integer accumsan ipsum a mauris dictum, eu aliquam sapien congue. &lt;&#x2F;p&gt;
+&lt;p&gt;Curabitur tempus, libero sit amet cursus condimentum, est dolor tincidunt leo, nec consectetur felis lectus ac ante. &lt;&#x2F;p&gt;
+&lt;p&gt;Cras suscipit ac enim vitae iaculis. Ut tincidunt lorem quam, non sodales orci suscipit et. Praesent sed dui a lectus posuere scelerisque. Suspendisse at mi sed arcu faucibus vulputate. Praesent tempus laoreet semper. Nulla facilisi. Aliquam sollicitudin, nibh id maximus tincidunt, lectus dolor fringilla risus, eget tincidunt mauris tellus at mi. Mauris condimentum dapibus ex eu congue.&lt;&#x2F;p&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;Praesent tempus laoreet semper. Nulla facilisi.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;http:&#x2F;&#x2F;justintennant.me&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+</feed>
